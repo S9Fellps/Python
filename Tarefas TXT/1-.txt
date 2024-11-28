@@ -1,0 +1,35 @@
+1-
+
+Num1: int = int(input('Digite o Primeiro numero: '))
+Num2: int = int(input('Digite o Segundo numero: '))
+soma= Num1+Num2
+print (f'A Soma dos Valores é: {soma}')
+
+_____________________________________________________________________________________________
+
+2-
+
+
+
+
+_____________________________________________________________________________________________
+
+3- 
+
+Num1: int = int(input('Digite o numero: '))
+ant= (Num1-1)
+suc= (Num1+1)
+
+print (f'O antecessor é: {ant}, e o sucessor: {suc}')
+
+_____________________________________________________________________________________________
+
+4-
+
+import math
+
+Num1: int = int(input('Digite o numero: '))
+dob= (Num1*Num1)
+trip= (Num1*Num1*Num1)
+raiz= math.sqrt(Num1)
+print (f'O dobro é: {dob}, o triplo: {trip}, e a raizquadrada é:{raiz}')
